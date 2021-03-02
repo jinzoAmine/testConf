@@ -24,8 +24,7 @@ public class PoupeeRusse {
             if (!isOpen) {
                 isOpen = true;
                 System.out.println("poupee russe is open");
-            } else {
-                System.out.println("we cant open this poupee russe cuz is already open.!!");
+
             }
         } else {
             System.out.println("you cant open this poupee russe.!!");
